@@ -1,6 +1,6 @@
 # Data 201
 
-This repository is a compilation of all of my completed projects from my Introduction to Data Science Class (Data 201), taken during my Sophomore year (Spring 2023). Prior to this class I had no experience with these tecniques/ skills.
+This repository is a compilation of all of my completed projects from my Introduction to Data Science Class (Data 201), taken during my Sophomore year (Spring 2023). Prior to this class I had no experience with these techniques/ skills.
 
 The course description is as follows: 
 "In this course, students will learn the fundamentals of data processing and modeling in the context of Data Science.  Emphasis will be placed on careful planning and deliberate decision-making when working with data and building models.  Programming will be done in the Python language, and we will be making extensive use of the scikit-learn collection (https://scikit-learn.org/stable/).
